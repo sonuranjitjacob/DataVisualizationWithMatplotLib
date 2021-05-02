@@ -3,7 +3,7 @@ Having had to present my findings to different colleagues in short yet neat pres
 These exercises clearly explain the basics of matplotib to visualize data. 
 
 ### Chapter 1
-Contains an introduction to creating figures, line plots and customizing the plots using markers, linestyles and colours. 
+Contains an introduction to creating figures, line plots and customizing the plots using markers, linestyles and colours and plotting subplots. 
 
 ### Chapter 2 
 Contains visualizations of time series data. 
